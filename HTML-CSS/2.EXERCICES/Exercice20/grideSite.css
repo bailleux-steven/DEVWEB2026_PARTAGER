@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+ul {
+    display: flex; 
+    justify-content: center;
+    gap: 20px;
+}
+
+.containter {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+
